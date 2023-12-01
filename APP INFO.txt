@@ -1,0 +1,22 @@
+-----------------    QUIZ APP   ----------------------
+
+This is a Quiz App, where we can add question on some quizess and with the help of microservices we cann each and every question.
+By using APIGateway we can calll every services by single domain.
+
+Tech used:
+
+Dependency:
+   Maven
+   Eureka Client
+   Eureka Server 
+   Load Balancer
+   Gateway
+   Actuator
+   
+Services:
+   API Gateway
+   Quiz
+   Questions
+   Service Registery
+
+------------------------------------------------
